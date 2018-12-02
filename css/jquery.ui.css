@@ -11,8 +11,8 @@
 }
 
 .turnjs-slider .thumbnail{
-	width:115px;
-	height:85px;
+	width:197px;
+	height:197px;
 	position:absolute;
 	background:rgba(0,0,0, 0.5);
 	z-index:10000;
@@ -49,9 +49,9 @@
 }
 
 .turnjs-slider .thumbnail div{
-	width:100px;
+	width:197px;
 	margin:7px;
-	height:70px;
+	height:197px;
 	background-color:white;
 }
 
